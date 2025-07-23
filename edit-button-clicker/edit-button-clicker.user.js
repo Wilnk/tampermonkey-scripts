@@ -7,3 +7,5 @@
 // @match        *://*/*
 // @grant        GM_addStyle
 // ==/UserScript==
+
+${content}
